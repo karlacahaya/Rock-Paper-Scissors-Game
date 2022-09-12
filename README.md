@@ -1,10 +1,5 @@
 # rock-paper-scissors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SouravJohar.visitor-badge)
-
-https://youtu.be/0uSA3xyXlwM 
-
-An AI to play the Rock Paper Scissors game
+Rock-Paper-Scissors AI with PyGame. Utilize python libraries such as OpenCV, Tensorflow, & Keras. With additional features such as Main Menu & Real-Time Leaderboards. Built as a final project subject.
 
 ## Requirements
 - Python 3
