@@ -10,7 +10,7 @@ Rock-Paper-Scissors AI with PyGame. Utilize python libraries such as OpenCV, Ten
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ git clone https://github.com/SouravJohar/rock-paper-scissors.git
+$ git clone https://github.com/karlacahaya/Rock-Paper-Scissors-Game
 $ cd rock-paper-scissors
 ```
 
